@@ -1,0 +1,216 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF4ACE83B3AA27EB083',
+    participant: undefined
+  },
+  messageTimestamp: 1695194125,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5212292655873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAFDED774D54333746D',
+    participant: undefined
+  },
+  messageTimestamp: 1695194133,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Servicios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Servicios',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_978fb3af-52a4-499a-b4a7-49e67e3919db',
+  keyword: 'key_ffa8813b-c9fb-4ebf-a41c-e7cb479f2282',
+  answer: 'Nuestros servicios son los siguientes:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a6351e3f6e105c9771cedda6d0dd1223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7ec033a6-fb82-4ae9-a8ea-705937f9df62',
+  keyword: 'ans_978fb3af-52a4-499a-b4a7-49e67e3919db',
+  answer: '¿Te interesa alguno de nuestros servicios?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6281436830ab7337f0f4a95537c65db2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD59D4A384D753CC2B2',
+    participant: undefined
+  },
+  messageTimestamp: 1695194141,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Medicina general',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Medicina general',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1d62370e-4da8-40b9-a2ae-669597229ac2',
+  keyword: 'key_dc3e10cb-5494-40e6-8fe1-5500a7062aea',
+  answer: 'en construccion',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'badb5e08e52712f32bf9736a873046bf'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF769C91F793479BA8E',
+    participant: undefined
+  },
+  messageTimestamp: 1695194150,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Servicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Servicio',
+  from: '5212292655873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEDC0FF3B94E23DC245',
+    participant: undefined
+  },
+  messageTimestamp: 1695194153,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Servicios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Servicios',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_978fb3af-52a4-499a-b4a7-49e67e3919db',
+  keyword: 'key_ffa8813b-c9fb-4ebf-a41c-e7cb479f2282',
+  answer: 'Nuestros servicios son los siguientes:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a6351e3f6e105c9771cedda6d0dd1223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7ec033a6-fb82-4ae9-a8ea-705937f9df62',
+  keyword: 'ans_978fb3af-52a4-499a-b4a7-49e67e3919db',
+  answer: '¿Te interesa alguno de nuestros servicios?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6281436830ab7337f0f4a95537c65db2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5CC56DD555256559B4',
+    participant: undefined
+  },
+  messageTimestamp: 1695194157,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1d62370e-4da8-40b9-a2ae-669597229ac2',
+  keyword: 'key_dc3e10cb-5494-40e6-8fe1-5500a7062aea',
+  answer: 'en construccion',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'badb5e08e52712f32bf9736a873046bf'
+}
