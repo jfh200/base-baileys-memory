@@ -2,26 +2,135 @@
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3A1F720ABA9211A6CFA6',
+    id: '3ABCB8E82ECA9B79D752',
     participant: undefined
   },
-  messageTimestamp: 1695235966,
+  messageTimestamp: 1695261433,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
-    conversation: 'Pediatra',
+    conversation: 'Servicios',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Pediatra',
+  body: 'Servicios',
   from: '5212292655873'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_204e350c-23c5-472f-af12-9f69653f6d68',
-  keyword: 'key_62b2c5ab-19dd-4649-8b3d-1fd87c142748',
-  answer: 'Para citas y precios, favor de marcar al numero 287 877 8783',
+  ref: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
+  keyword: 'key_97ae3192-53a4-43c7-a553-78fab2ee9b57',
+  answer: 'Nuestros servicios son los siguientes:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0e5af5858639c7a666805e383d1622fb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a6cf499-33f1-4b2d-906c-8d2e33400312',
+  keyword: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
+  answer: '¿Te interesa alguno de nuestros servicios?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '72102fde84ee801bc90b1d67eeb33400'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3A67F59ECCC812D26AC0',
+    participant: undefined
+  },
+  messageTimestamp: 1695261438,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_876d364e-e62f-4c86-959e-3439ad9cc3f8',
+  keyword: 'key_3a5faac0-c55f-405d-8dd9-40376ebb6acf',
+  answer: '¿Que otra cosa puedo hacer por ti?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e5147bc2bd63132c386273581fbb3584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA8A5E869F547183762',
+    participant: undefined
+  },
+  messageTimestamp: 1695261452,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Es todo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Es todo',
+  from: '5212292655873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2C11471B4222A0A035',
+    participant: undefined
+  },
+  messageTimestamp: 1695261459,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fccc91e3-2fd1-43d9-8a72-3fe877a8bd1c',
+  keyword: 'key_ee892c15-f492-4c29-82eb-0431b0850e95',
+  answer: '🙌 Hola bienvenido al chat de la Clínica San Juan bautista\n' +
+    '¿Como te puedo ayudar el día de hoy?',
   options: {
     media: null,
     buttons: [],
@@ -32,32 +141,141 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'd28b7a9e12ce8c8d23cb5e62788bf19b'
+  refSerialize: 'ca73fba4e0e832c7b0a4d7a2328c70c6'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3A92CAB952BF7CED86A4',
+    id: '3A2697D5D7C4FA0F5811',
     participant: undefined
   },
-  messageTimestamp: 1695235972,
+  messageTimestamp: 1695261524,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
-    conversation: 'Pediatría',
+    conversation: 'Servicios',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Pediatría',
+  body: 'Servicios',
   from: '5212292655873'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_204e350c-23c5-472f-af12-9f69653f6d68',
-  keyword: 'key_62b2c5ab-19dd-4649-8b3d-1fd87c142748',
-  answer: 'Para citas y precios, favor de marcar al numero 287 877 8783',
+  ref: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
+  keyword: 'key_97ae3192-53a4-43c7-a553-78fab2ee9b57',
+  answer: 'Nuestros servicios son los siguientes:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0e5af5858639c7a666805e383d1622fb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a6cf499-33f1-4b2d-906c-8d2e33400312',
+  keyword: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
+  answer: '¿Te interesa alguno de nuestros servicios?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '72102fde84ee801bc90b1d67eeb33400'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3A93D5C77DC7CD03053B',
+    participant: undefined
+  },
+  messageTimestamp: 1695261531,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_876d364e-e62f-4c86-959e-3439ad9cc3f8',
+  keyword: 'key_3a5faac0-c55f-405d-8dd9-40376ebb6acf',
+  answer: '¿Que otra cosa puedo hacer por ti?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e5147bc2bd63132c386273581fbb3584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD991297ECE796E1D55',
+    participant: undefined
+  },
+  messageTimestamp: 1695261541,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Nada',
+  from: '5212292655873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5B2D61200CFE3A58BC',
+    participant: undefined
+  },
+  messageTimestamp: 1695261562,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fccc91e3-2fd1-43d9-8a72-3fe877a8bd1c',
+  keyword: 'key_ee892c15-f492-4c29-82eb-0431b0850e95',
+  answer: '🙌 Hola bienvenido al chat de la Clínica San Juan bautista\n' +
+    '¿Como te puedo ayudar el día de hoy?',
   options: {
     media: null,
     buttons: [],
@@ -68,16 +286,16 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'd28b7a9e12ce8c8d23cb5e62788bf19b'
+  refSerialize: 'ca73fba4e0e832c7b0a4d7a2328c70c6'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3AF1CDAF64E44B826C5F',
+    id: '3A74C1642F935F13DF00',
     participant: undefined
   },
-  messageTimestamp: 1695235976,
+  messageTimestamp: 1695261570,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
@@ -94,10 +312,10 @@
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3A8B040CFCFB2D354379',
+    id: '3ADCEE61CEE065A94DA5',
     participant: undefined
   },
-  messageTimestamp: 1695235981,
+  messageTimestamp: 1695261593,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
@@ -111,8 +329,8 @@
   from: '5212292655873'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_3f15987c-a931-405a-b979-1df917982720',
-  keyword: 'key_5da989ac-fb34-43ce-8fcc-7c9e4644f717',
+  ref: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
+  keyword: 'key_97ae3192-53a4-43c7-a553-78fab2ee9b57',
   answer: 'Nuestros servicios son los siguientes:',
   options: {
     media: null,
@@ -124,11 +342,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'd78da37b93dc103a312a30c1513b156d'
+  refSerialize: '0e5af5858639c7a666805e383d1622fb'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_7b33aa34-71e4-4b80-b289-74fd20ce609d',
-  keyword: 'ans_3f15987c-a931-405a-b979-1df917982720',
+  ref: 'ans_4a6cf499-33f1-4b2d-906c-8d2e33400312',
+  keyword: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
   answer: '¿Te interesa alguno de nuestros servicios?',
   options: {
     media: null,
@@ -136,20 +354,144 @@
     capture: false,
     child: null,
     delay: 1500,
-    nested: [ [Object], [Object] ],
+    nested: [ [Object], [Object], [Object], [Object] ],
     keyword: {},
     callback: false
   },
-  refSerialize: 'c466cc311277ac73e11dca07ed86bac7'
+  refSerialize: '72102fde84ee801bc90b1d67eeb33400'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3A49F49E11DDA9DCB728',
+    id: '3A869832B1FAAD1368B2',
     participant: undefined
   },
-  messageTimestamp: 1695235986,
+  messageTimestamp: 1695261598,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_876d364e-e62f-4c86-959e-3439ad9cc3f8',
+  keyword: 'key_3a5faac0-c55f-405d-8dd9-40376ebb6acf',
+  answer: '¿Que otra cosa puedo hacer por ti?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e5147bc2bd63132c386273581fbb3584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3A44FB475A994A4FF578',
+    participant: undefined
+  },
+  messageTimestamp: 1695261615,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cita con el ginecólogo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cita con el ginecólogo',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_185946cd-d0b0-488a-acb4-8e74742b516a',
+  keyword: 'key_4074bfd1-66c9-4b1b-8539-514597f9c93a',
+  answer: 'Para citas y costos, favor de marcar a los numeros 287 875 20 24 y 287 875 4145',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '658eaa0577015af988f1b50bc85ba08a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE75613B1731387C0A4',
+    participant: undefined
+  },
+  messageTimestamp: 1695261847,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Servicios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Servicios',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
+  keyword: 'key_97ae3192-53a4-43c7-a553-78fab2ee9b57',
+  answer: 'Nuestros servicios son los siguientes:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0e5af5858639c7a666805e383d1622fb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a6cf499-33f1-4b2d-906c-8d2e33400312',
+  keyword: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
+  answer: '¿Te interesa alguno de nuestros servicios?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '72102fde84ee801bc90b1d67eeb33400'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3A81CBEFFFE7CE9DCEC6',
+    participant: undefined
+  },
+  messageTimestamp: 1695261851,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
@@ -163,8 +505,8 @@
   from: '5212292655873'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_131610d1-42e6-497b-aab2-cadec49489df',
-  keyword: 'key_43d27909-3418-4a19-b66e-a42a511f05d4',
+  ref: 'ans_096c485b-5fe0-46d6-acec-b7d300b3c7f6',
+  keyword: 'key_a60c7402-6e54-4906-bcc7-04fee66fb285',
   answer: '¿En que servicio estas interesado?',
   options: {
     media: null,
@@ -176,32 +518,32 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '5115a7b280ce7e91f1e07d94bdbcc6b0'
+  refSerialize: 'bd112efe0e9fa24931e40efd7feb4336'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3AE1EB1E1A6515C36FBF',
+    id: '3A5D91386B82120BF546',
     participant: undefined
   },
-  messageTimestamp: 1695235993,
+  messageTimestamp: 1695261868,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
-    conversation: 'Papanicolao',
+    conversation: 'Pediatra',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Papanicolao',
+  body: 'Pediatra',
   from: '5212292655873'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0a9856dc-9b43-474c-b333-01edc7e9797e',
-  keyword: 'key_99e5f84f-9187-4d47-9da4-af336b278a0b',
-  answer: 'Para citas y precios, favor de marcar al numero 287 164 1976',
+  ref: 'ans_9180c671-44da-492b-b381-dd8dc7b51873',
+  keyword: 'key_09c82774-2bbc-412e-bd56-cef963cf56b8',
+  answer: 'Para citas y precios, favor de marcar al numero 287 877 8783',
   options: {
     media: null,
     buttons: [],
@@ -212,5 +554,5 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'bf9a960c17506003c4098b683af07122'
+  refSerialize: '934e1cd9ef8753608f8414b3a2f7c6cd'
 }
