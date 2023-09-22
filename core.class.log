@@ -2,118 +2,10 @@
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3ABCB8E82ECA9B79D752',
+    id: '3A90D6E461C0C59E543D',
     participant: undefined
   },
-  messageTimestamp: 1695261433,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'Servicios',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Servicios',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
-  keyword: 'key_97ae3192-53a4-43c7-a553-78fab2ee9b57',
-  answer: 'Nuestros servicios son los siguientes:',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '0e5af5858639c7a666805e383d1622fb'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4a6cf499-33f1-4b2d-906c-8d2e33400312',
-  keyword: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
-  answer: '¿Te interesa alguno de nuestros servicios?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 1500,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '72102fde84ee801bc90b1d67eeb33400'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3A67F59ECCC812D26AC0',
-    participant: undefined
-  },
-  messageTimestamp: 1695261438,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'No',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'No',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_876d364e-e62f-4c86-959e-3439ad9cc3f8',
-  keyword: 'key_3a5faac0-c55f-405d-8dd9-40376ebb6acf',
-  answer: '¿Que otra cosa puedo hacer por ti?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'e5147bc2bd63132c386273581fbb3584'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3AA8A5E869F547183762',
-    participant: undefined
-  },
-  messageTimestamp: 1695261452,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'Es todo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Es todo',
-  from: '5212292655873'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3A2C11471B4222A0A035',
-    participant: undefined
-  },
-  messageTimestamp: 1695261459,
+  messageTimestamp: 1695407257,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
@@ -127,10 +19,26 @@
   from: '5212292655873'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fccc91e3-2fd1-43d9-8a72-3fe877a8bd1c',
-  keyword: 'key_ee892c15-f492-4c29-82eb-0431b0850e95',
-  answer: '🙌 Hola bienvenido al chat de la Clínica San Juan bautista\n' +
-    '¿Como te puedo ayudar el día de hoy?',
+  ref: 'ans_7f96f6a0-ac5d-425d-a673-d63335cebd1e',
+  keyword: 'key_c49de50d-8cfd-47cc-8663-d7cb42fd4ccf',
+  answer: '🙌 Hola bienvenido a la Clínica San Juan bautista, estos son algunos de nuestros servicios:\n' +
+    '\n' +
+    '1. - Medicina General 2.- Papanicolaou\n' +
+    '3.- Tomografía Computarizada\n' +
+    '4.- Ginecología y Obstetricia\n' +
+    '5.- Pedriatría 6.- Colposcopia\n' +
+    '7.- Mastografia 8.- Densitometría\n' +
+    '9.- Hospitalización 10.- Rayos X\n' +
+    '11.- Cirugía laparoscopica\n' +
+    '12.- Ultrasonidos\n' +
+    '13.- Biopsias guíadas por ultrasonido\n' +
+    '14.- Estudios Especiales contrastados\n' +
+    '15.- Electrocardiogramas\n' +
+    '16.- Consulta externa y ugencias\n' +
+    '17.- Servicios de transfusión sanguinea\n' +
+    '18.- Laboratorio clinico\n' +
+    '\n' +
+    'Teclea el numero del servicio que te interesa',
   options: {
     media: null,
     buttons: [],
@@ -141,104 +49,16 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'ca73fba4e0e832c7b0a4d7a2328c70c6'
+  refSerialize: 'b054cdaa6fc31728105ec89930bf57b0'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3A2697D5D7C4FA0F5811',
+    id: '3A7DE1BFC69A3EA3D5B1',
     participant: undefined
   },
-  messageTimestamp: 1695261524,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'Servicios',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Servicios',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
-  keyword: 'key_97ae3192-53a4-43c7-a553-78fab2ee9b57',
-  answer: 'Nuestros servicios son los siguientes:',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '0e5af5858639c7a666805e383d1622fb'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4a6cf499-33f1-4b2d-906c-8d2e33400312',
-  keyword: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
-  answer: '¿Te interesa alguno de nuestros servicios?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 1500,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '72102fde84ee801bc90b1d67eeb33400'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3A93D5C77DC7CD03053B',
-    participant: undefined
-  },
-  messageTimestamp: 1695261531,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'No',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'No',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_876d364e-e62f-4c86-959e-3439ad9cc3f8',
-  keyword: 'key_3a5faac0-c55f-405d-8dd9-40376ebb6acf',
-  answer: '¿Que otra cosa puedo hacer por ti?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'e5147bc2bd63132c386273581fbb3584'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3AD991297ECE796E1D55',
-    participant: undefined
-  },
-  messageTimestamp: 1695261541,
+  messageTimestamp: 1695407259,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
@@ -251,14 +71,30 @@
   body: 'Nada',
   from: '5212292655873'
 }
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8d019ef8-7d9f-4386-aa94-892d7d1451bd',
+  keyword: 'key_17f98bfe-42a7-44e8-bf38-61348b70ae97',
+  answer: 'Que tengas un excelente resto del día',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ce1ec44e603bf43c7a271d4d0c35318'
+}
 [handleMsg]:  {
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3A5B2D61200CFE3A58BC',
+    id: '3AC8F9DE2EE977BB7E2D',
     participant: undefined
   },
-  messageTimestamp: 1695261562,
+  messageTimestamp: 1695407265,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
@@ -272,10 +108,26 @@
   from: '5212292655873'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fccc91e3-2fd1-43d9-8a72-3fe877a8bd1c',
-  keyword: 'key_ee892c15-f492-4c29-82eb-0431b0850e95',
-  answer: '🙌 Hola bienvenido al chat de la Clínica San Juan bautista\n' +
-    '¿Como te puedo ayudar el día de hoy?',
+  ref: 'ans_7f96f6a0-ac5d-425d-a673-d63335cebd1e',
+  keyword: 'key_c49de50d-8cfd-47cc-8663-d7cb42fd4ccf',
+  answer: '🙌 Hola bienvenido a la Clínica San Juan bautista, estos son algunos de nuestros servicios:\n' +
+    '\n' +
+    '1. - Medicina General 2.- Papanicolaou\n' +
+    '3.- Tomografía Computarizada\n' +
+    '4.- Ginecología y Obstetricia\n' +
+    '5.- Pedriatría 6.- Colposcopia\n' +
+    '7.- Mastografia 8.- Densitometría\n' +
+    '9.- Hospitalización 10.- Rayos X\n' +
+    '11.- Cirugía laparoscopica\n' +
+    '12.- Ultrasonidos\n' +
+    '13.- Biopsias guíadas por ultrasonido\n' +
+    '14.- Estudios Especiales contrastados\n' +
+    '15.- Electrocardiogramas\n' +
+    '16.- Consulta externa y ugencias\n' +
+    '17.- Servicios de transfusión sanguinea\n' +
+    '18.- Laboratorio clinico\n' +
+    '\n' +
+    'Teclea el numero del servicio que te interesa',
   options: {
     media: null,
     buttons: [],
@@ -286,212 +138,16 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'ca73fba4e0e832c7b0a4d7a2328c70c6'
+  refSerialize: 'b054cdaa6fc31728105ec89930bf57b0'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5212292655873@s.whatsapp.net',
     fromMe: false,
-    id: '3A74C1642F935F13DF00',
+    id: '3A6C9CAAB303EF1ECAEF',
     participant: undefined
   },
-  messageTimestamp: 1695261570,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'Servicio',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Servicio',
-  from: '5212292655873'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3ADCEE61CEE065A94DA5',
-    participant: undefined
-  },
-  messageTimestamp: 1695261593,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'Servicios',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Servicios',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
-  keyword: 'key_97ae3192-53a4-43c7-a553-78fab2ee9b57',
-  answer: 'Nuestros servicios son los siguientes:',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '0e5af5858639c7a666805e383d1622fb'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4a6cf499-33f1-4b2d-906c-8d2e33400312',
-  keyword: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
-  answer: '¿Te interesa alguno de nuestros servicios?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 1500,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '72102fde84ee801bc90b1d67eeb33400'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3A869832B1FAAD1368B2',
-    participant: undefined
-  },
-  messageTimestamp: 1695261598,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'No',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'No',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_876d364e-e62f-4c86-959e-3439ad9cc3f8',
-  keyword: 'key_3a5faac0-c55f-405d-8dd9-40376ebb6acf',
-  answer: '¿Que otra cosa puedo hacer por ti?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'e5147bc2bd63132c386273581fbb3584'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3A44FB475A994A4FF578',
-    participant: undefined
-  },
-  messageTimestamp: 1695261615,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'Cita con el ginecólogo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Cita con el ginecólogo',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_185946cd-d0b0-488a-acb4-8e74742b516a',
-  keyword: 'key_4074bfd1-66c9-4b1b-8539-514597f9c93a',
-  answer: 'Para citas y costos, favor de marcar a los numeros 287 875 20 24 y 287 875 4145',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '658eaa0577015af988f1b50bc85ba08a'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3AE75613B1731387C0A4',
-    participant: undefined
-  },
-  messageTimestamp: 1695261847,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'Servicios',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Servicios',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
-  keyword: 'key_97ae3192-53a4-43c7-a553-78fab2ee9b57',
-  answer: 'Nuestros servicios son los siguientes:',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '0e5af5858639c7a666805e383d1622fb'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4a6cf499-33f1-4b2d-906c-8d2e33400312',
-  keyword: 'ans_1351faa9-535f-4f6c-b106-9631b8e032be',
-  answer: '¿Te interesa alguno de nuestros servicios?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 1500,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '72102fde84ee801bc90b1d67eeb33400'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3A81CBEFFFE7CE9DCEC6',
-    participant: undefined
-  },
-  messageTimestamp: 1695261851,
+  messageTimestamp: 1695407276,
   pushName: 'Jaime',
   broadcast: false,
   message: Message {
@@ -505,45 +161,9 @@
   from: '5212292655873'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_096c485b-5fe0-46d6-acec-b7d300b3c7f6',
-  keyword: 'key_a60c7402-6e54-4906-bcc7-04fee66fb285',
-  answer: '¿En que servicio estas interesado?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'bd112efe0e9fa24931e40efd7feb4336'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5212292655873@s.whatsapp.net',
-    fromMe: false,
-    id: '3A5D91386B82120BF546',
-    participant: undefined
-  },
-  messageTimestamp: 1695261868,
-  pushName: 'Jaime',
-  broadcast: false,
-  message: Message {
-    conversation: 'Pediatra',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Pediatra',
-  from: '5212292655873'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9180c671-44da-492b-b381-dd8dc7b51873',
-  keyword: 'key_09c82774-2bbc-412e-bd56-cef963cf56b8',
-  answer: 'Para citas y precios, favor de marcar al numero 287 877 8783',
+  ref: 'ans_939f63ca-80d6-453e-b6b7-5667102e9e87',
+  keyword: 'key_56bec3d3-425f-4d96-bdfe-7928f9293486',
+  answer: 'Para citas y precios del servicio de ginecología, favor de marcar al numero 287 164 1976',
   options: {
     media: null,
     buttons: [],
@@ -554,5 +174,130 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '934e1cd9ef8753608f8414b3a2f7c6cd'
+  refSerialize: 'f1482cc7da71b56e38c27e94c16118d9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3BFF87ADFF4A486A9C',
+    participant: undefined
+  },
+  messageTimestamp: 1695407348,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7f96f6a0-ac5d-425d-a673-d63335cebd1e',
+  keyword: 'key_c49de50d-8cfd-47cc-8663-d7cb42fd4ccf',
+  answer: '🙌 Hola bienvenido a la Clínica San Juan bautista, estos son algunos de nuestros servicios:\n' +
+    '\n' +
+    '1. - Medicina General 2.- Papanicolaou\n' +
+    '3.- Tomografía Computarizada\n' +
+    '4.- Ginecología y Obstetricia\n' +
+    '5.- Pedriatría 6.- Colposcopia\n' +
+    '7.- Mastografia 8.- Densitometría\n' +
+    '9.- Hospitalización 10.- Rayos X\n' +
+    '11.- Cirugía laparoscopica\n' +
+    '12.- Ultrasonidos\n' +
+    '13.- Biopsias guíadas por ultrasonido\n' +
+    '14.- Estudios Especiales contrastados\n' +
+    '15.- Electrocardiogramas\n' +
+    '16.- Consulta externa y ugencias\n' +
+    '17.- Servicios de transfusión sanguinea\n' +
+    '18.- Laboratorio clinico\n' +
+    '\n' +
+    'Teclea el numero del servicio que te interesa',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b054cdaa6fc31728105ec89930bf57b0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD2E96D5C05AF19654B',
+    participant: undefined
+  },
+  messageTimestamp: 1695407354,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Precio papanicolao',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Precio papanicolao',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_47309eb5-09c0-40fd-8b14-afbf9cf65b8a',
+  keyword: 'key_c25a8c99-c214-44b8-8272-61dd847942b6',
+  answer: 'En clínica San Juan Bautista ofrecemos el servicio de Papanicolau, estamos comprometidos con la salud y el bienestar de nuestras pacientes',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '80a9a057893247e6bb7a07ad33600436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212292655873@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFC0E0766D80CCB65DC',
+    participant: undefined
+  },
+  messageTimestamp: 1695407451,
+  pushName: 'Jaime',
+  broadcast: false,
+  message: Message {
+    conversation: 'Precio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Precio',
+  from: '5212292655873'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4144d3c6-83f8-452f-adfd-617afcb993eb',
+  keyword: 'key_fd764d79-2d2a-4490-9ae3-2c531ecbc470',
+  answer: 'Para costo del papanicolaou, comunicate al numero 287 164 1976',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f6270a31569875caa3255a65ce387900'
 }
